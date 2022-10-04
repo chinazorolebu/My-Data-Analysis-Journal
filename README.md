@@ -2,7 +2,7 @@
 A journal to document my Data Analysis Journey
 
 ----
-# Project Objective; Problem Statement 
+# Project Objective: Problem Statement 
 
 
 
